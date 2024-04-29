@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GLP\\csc212\\week-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCC7217-B623-48FF-94B0-DE53D8B601F5}|pyramid creation.vcxproj|C:\\GLP\\csc212\\week-1\\pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DCC7217-B623-48FF-94B0-DE53D8B601F5}|pyramid creation.vcxproj|solutionrelative:pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pyramid.cpp",
+              "DocumentMoniker": "C:\\GLP\\csc212\\week-1\\pyramid.cpp",
+              "RelativeDocumentMoniker": "pyramid.cpp",
+              "ToolTip": "C:\\GLP\\csc212\\week-1\\pyramid.cpp",
+              "RelativeToolTip": "pyramid.cpp",
+              "ViewState": "AQIAAAcAAAAAGV100UUtwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T19:18:58.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

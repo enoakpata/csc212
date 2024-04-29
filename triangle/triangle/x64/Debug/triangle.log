@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : fatal error LNK1168: cannot open C:\GLP\triangle\x64\Debug\triangle.exe for writing

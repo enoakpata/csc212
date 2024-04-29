@@ -64,9 +64,9 @@ int main(int argc, char* argv[])
     std::vector<Point3D> points2{
         Point3D{ 1, 0, 0 },
         Point3D{ 0, 2, 0 },
-        Point3D{ 2,  2, 0},
+        Point3D{ 2,  2, 0 },
         Point3D{ 0, 4, 0 },
-        Point3D{ 2,  4 ,0},
+        Point3D{ 2,  4 ,0 },
     };
 
     // Create edges

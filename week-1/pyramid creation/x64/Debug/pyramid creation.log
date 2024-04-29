@@ -1,0 +1,6 @@
+﻿  pyramid.cpp
+C:\GLP\csc212\week-1\pyramid.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\csc212\week-1\pyramid.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\csc212\week-1\pyramid.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\csc212\week-1\pyramid.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\GLP\csc212\week-1\x64\Debug\pyramid creation.exe for writing

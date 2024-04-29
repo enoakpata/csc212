@@ -1,0 +1,6 @@
+﻿  pyramid.cpp
+C:\GLP\pyramid creation\pyramid.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid creation\pyramid.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid creation\pyramid.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\pyramid creation\pyramid.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  pyramid creation.vcxproj -> C:\GLP\pyramid creation\x64\Debug\pyramid creation.exe
