@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\sdl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|solutionrelative:sdl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|solutionrelative:animate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF0EB9F1-76BE-4121-A252-A6C6C0B2EFCC}|SDL_BaseProject.vcxproj|solutionrelative:animate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sdl.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\sdl.h",
+              "RelativeDocumentMoniker": "sdl.h",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\sdl.h",
+              "RelativeToolTip": "sdl.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T12:25:36.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "animate.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.cpp",
+              "RelativeDocumentMoniker": "animate.cpp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.cpp",
+              "RelativeToolTip": "animate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T11:52:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T11:47:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "animate.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.h",
+              "RelativeDocumentMoniker": "animate.h",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\SDL_BaseProject\\SDL_BaseProject\\animate.h",
+              "RelativeToolTip": "animate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-06T11:46:16.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
